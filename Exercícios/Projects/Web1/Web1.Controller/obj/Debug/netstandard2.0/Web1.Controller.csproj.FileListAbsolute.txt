@@ -1,0 +1,14 @@
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.csprojAssemblyReference.cache
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.csproj.CoreCompileInputs.cache
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.AssemblyInfoInputs.cache
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.AssemblyInfo.cs
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\Web1.Controller.deps.json
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\Web1.Controller.dll
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\Web1.Controller.pdb
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\System.Security.dll
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Exercícios\Projects\Web1\Web1.Controller\bin\Debug\netstandard2.0\System.Security.xml
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.csproj.CopyComplete
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.dll
+C:\Exercícios\Projects\Web1\Web1.Controller\obj\Debug\netstandard2.0\Web1.Controller.pdb

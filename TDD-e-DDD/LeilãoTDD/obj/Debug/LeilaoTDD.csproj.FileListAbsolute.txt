@@ -1,0 +1,10 @@
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\bin\Debug\LeilaoTDD.dll.config
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\bin\Debug\LeilaoTDD.dll
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\bin\Debug\LeilaoTDD.pdb
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\bin\Debug\nunit.framework.dll
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\bin\Debug\nunit.framework.pdb
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\bin\Debug\nunit.framework.xml
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\obj\Debug\LeilaoTDD.csproj.CoreCompileInputs.cache
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\obj\Debug\LeilaoTDD.csproj.CopyComplete
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\obj\Debug\LeilaoTDD.dll
+C:\Users\NET-VM\Documents\Alura\TDD e DDD\TDD-e-DDD\LeilãoTDD\obj\Debug\LeilaoTDD.pdb

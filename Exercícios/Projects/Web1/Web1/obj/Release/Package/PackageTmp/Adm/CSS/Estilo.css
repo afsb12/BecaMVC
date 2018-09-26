@@ -1,0 +1,58 @@
+﻿body {
+    background: -webkit-linear-gradient(to right, #3e5151, #decba4); /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3e5151, #decba4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.login_form {
+    text-align: left;
+    display: block;
+    width: 400px;
+    max-width: 100%;
+    margin: 25px auto;
+    background: #fff;
+    padding: 25px;
+    box-shadow: 0 0 5px 0 #ccc;
+    border-radius: 4px;
+    -moz-border-radius: 4px;
+    -webkit-border-radius: 4px;
+    margin-top: 20px;
+}
+input:focus {
+    color: #808080;
+}
+.Label_login {
+    padding-bottom: 20px;
+    font-family: Consolas;
+    margin-top: 20px;
+}
+.input, .input, select, textarea {
+    padding: 8px;
+    width: 100%;
+    font-size: 0.875em;
+    font-weight: 300;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+}
+.label .legend {
+    display: block;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    color: #333;
+    font-weight: 300;
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+.btn_green {
+    margin-top: 20px;
+    background-color: #808080;
+    border-radius: 3px,4px;
+    color:antiquewhite;
+}
+.Resultado {
+    padding: 8px;
+    font-size: 0.875em;
+    font-weight: 300;
+    border: 1px solid #ccc;
+    margin-top: 20px;
+    
+}
+

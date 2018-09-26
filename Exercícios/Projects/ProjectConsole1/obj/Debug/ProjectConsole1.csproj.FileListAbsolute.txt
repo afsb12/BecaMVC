@@ -1,0 +1,11 @@
+C:\Exercícios\Projects\ProjectConsole1\bin\Debug\ProjectConsole1.exe.config
+C:\Exercícios\Projects\ProjectConsole1\bin\Debug\ProjectConsole1.exe
+C:\Exercícios\Projects\ProjectConsole1\bin\Debug\ProjectConsole1.pdb
+C:\Exercícios\Projects\ProjectConsole1\obj\Debug\ProjectConsole1.csprojAssemblyReference.cache
+C:\Exercícios\Projects\ProjectConsole1\obj\Debug\ProjectConsole1.csproj.CoreCompileInputs.cache
+C:\Exercícios\Projects\ProjectConsole1\obj\Debug\ProjectConsole1.exe
+C:\Exercícios\Projects\ProjectConsole1\obj\Debug\ProjectConsole1.pdb
+C:\Exercícios\Projects\ProjectConsole1\bin\Debug\nunit.framework.dll
+C:\Exercícios\Projects\ProjectConsole1\bin\Debug\nunit.framework.pdb
+C:\Exercícios\Projects\ProjectConsole1\bin\Debug\nunit.framework.xml
+C:\Exercícios\Projects\ProjectConsole1\obj\Debug\ProjectConsole1.csproj.CopyComplete

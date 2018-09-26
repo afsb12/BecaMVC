@@ -1,0 +1,7 @@
+C:\Exercícios\Projects\FileHandle\FileHandle\bin\Debug\FileHandle.exe.config
+C:\Exercícios\Projects\FileHandle\FileHandle\bin\Debug\FileHandle.exe
+C:\Exercícios\Projects\FileHandle\FileHandle\bin\Debug\FileHandle.pdb
+C:\Exercícios\Projects\FileHandle\FileHandle\obj\Debug\FileHandle.csprojAssemblyReference.cache
+C:\Exercícios\Projects\FileHandle\FileHandle\obj\Debug\FileHandle.csproj.CoreCompileInputs.cache
+C:\Exercícios\Projects\FileHandle\FileHandle\obj\Debug\FileHandle.exe
+C:\Exercícios\Projects\FileHandle\FileHandle\obj\Debug\FileHandle.pdb

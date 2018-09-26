@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeilaoTDD", "LeilãoTDD\LeilaoTDD.csproj", "{455398F8-7F52-43C6-A2B7-8B11CA773214}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LeilaoTDDTeste", "LeilaoTDDTeste\LeilaoTDDTeste.csproj", "{31EA0761-1346-4E0F-91CB-3BC433E41168}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{455398F8-7F52-43C6-A2B7-8B11CA773214}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{455398F8-7F52-43C6-A2B7-8B11CA773214}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{455398F8-7F52-43C6-A2B7-8B11CA773214}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{455398F8-7F52-43C6-A2B7-8B11CA773214}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31EA0761-1346-4E0F-91CB-3BC433E41168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31EA0761-1346-4E0F-91CB-3BC433E41168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31EA0761-1346-4E0F-91CB-3BC433E41168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31EA0761-1346-4E0F-91CB-3BC433E41168}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B9366AE-6CD3-4271-ACDC-5CC0135E7013}
+	EndGlobalSection
+EndGlobal

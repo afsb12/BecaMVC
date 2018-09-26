@@ -1,0 +1,14 @@
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\Web.Controller.deps.json
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\Web.Controller.dll
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\Web.Controller.pdb
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.csprojAssemblyReference.cache
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.csproj.CoreCompileInputs.cache
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.AssemblyInfoInputs.cache
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.AssemblyInfo.cs
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.dll
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.pdb
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\System.Security.dll
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Exercícios\Projects\Web1\web.Controller\bin\Debug\netstandard2.0\System.Security.xml
+C:\Exercícios\Projects\Web1\web.Controller\obj\Debug\netstandard2.0\Web.Controller.csproj.CopyComplete
